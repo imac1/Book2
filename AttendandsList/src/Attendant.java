@@ -5,6 +5,13 @@ public class Attendant {
     int salary;
     String gender;
 
+//    public Attendant(String name, int age, int salary, String gender) {
+//        this.name = name;
+//        this.age = age;
+//        this.salary = salary;
+//        this.gender = gender;
+//    }
+
     public String getName() {
         return name;
     }
